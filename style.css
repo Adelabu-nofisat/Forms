@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: burlywood;
+}
+.app{
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+.form{
+    font-size: 20px;
+    text-align: center;
+}
+.personal{
+    font-size: 20px;
+}
+.formcontrol{
+    width: 250px;
+    height: 5vh;
+}
+.btn{
+    background-color: brown;
+    color: #fff;
+    width: 150px;
+    height: 40px;
+    border-radius: 20px;
+}
+.submit{
+    background-color: black;
+    color: #fff;
+    width: 150px;
+    height: 40px;
+    border-radius: 20px;
+}
